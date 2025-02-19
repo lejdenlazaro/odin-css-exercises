@@ -1,4 +1,5 @@
-p {
+p,
+.third {
   background-color: #fea6a7;
   font-family: Verdana, "Dejavu Sans", sans-serif;
 }
@@ -6,4 +7,8 @@ p {
 div {
   color: rgba(1, 1, 255, 255);
   font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
 }
