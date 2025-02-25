@@ -7,10 +7,14 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  /* Change */
+  padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
+  /* Change */
+  font-size: 16px;
 }
 
 .content {
@@ -19,9 +23,28 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  /* Change */
+  text-align: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  /* Change */
+  display: block;
+  margin: 0 auto;
+  padding: 1em 2em;
+}
+
+/* Change */
+.title,
+.content {
+  margin: 8px 0;
+}
+
+/* Change */
+.title,
+.content,
+.button-container {
+  padding: 8px;
 }
