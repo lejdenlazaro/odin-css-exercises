@@ -14,11 +14,14 @@ body {
 .title {
   background: #e3f4ff;
   /* Change */
+  margin: 8px 0;
   font-size: 16px;
+  padding: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  margin: 8px 0;
   padding: 16px 8px;
 }
 
@@ -26,6 +29,7 @@ body {
   background: #e3f4ff;
   /* Change */
   text-align: center;
+  padding: 8px;
 }
 
 button {
@@ -35,16 +39,4 @@ button {
   display: block;
   margin: 0 auto;
   padding: 8px 24px;
-}
-
-/* Change */
-.title,
-.content {
-  margin: 8px 0;
-}
-
-/* Change */
-.title,
-.button-container {
-  padding: 8px;
 }
