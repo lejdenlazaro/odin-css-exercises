@@ -53,21 +53,23 @@ ul {
   padding: 8px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .left-menu {
   display: flex;
-  gap: 8px;
+  gap: 16px;
+  align-items: center;
 }
 
 .left-menu ul {
   display: flex;
   padding: 0;
-  gap: 8px;
+  gap: 16px;
+  align-items: center;
 }
 
 .right-menu {
   display: flex;
-  gap: 8px;
+  gap: 16px;
+  align-items: center;
 }
