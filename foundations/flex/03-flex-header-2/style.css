@@ -58,10 +58,7 @@ ul {
 
 .left-menu {
   display: flex;
-}
-
-.logo {
-  padding: 0 8px;
+  gap: 8px;
 }
 
 .left-menu ul {
