@@ -26,17 +26,3 @@ img {
 }
 
 /* solution */
-.title {
-  text-align: center;
-  margin-bottom: 32px;
-}
-
-.figure-container {
-  display: flex;
-  justify-content: center;
-  gap: 52px;
-}
-
-.figure .text {
-  text-align: center;
-}
