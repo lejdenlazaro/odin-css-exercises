@@ -26,3 +26,20 @@ img {
 }
 
 /* solution */
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.figure-container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.figure {
+  max-width: 200px;
+}
